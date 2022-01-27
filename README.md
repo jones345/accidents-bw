@@ -1,22 +1,11 @@
-# K-WD Dashboard
 
-Fully responsive dashboard template built with tailwindcss & alpinejs
-
-[![GitHub license](https://img.shields.io/github/license/Kamona-WD/kwd-dashboard)](https://github.com/Kamona-WD/starter-dashboard-layout/blob/main/License.md)
-[![GitHub stars](https://img.shields.io/github/stars/Kamona-WD/kwd-dashboard)](https://github.com/Kamona-WD/kwd-dashboard/stargazers)
-
-#### Check this [branch](https://github.com/Kamona-WD/kwd-dashboard/tree/rewrite).
-
-## [See live](https://kamona-wd.github.io/kwd-dashboard/)
 
 To get started:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Kamona-WD/kwd-dashboard.git
-
-   cd kwd-dashboard
+  bw Accidents dahsboard
    ```
 
 2. Install the dependencies:
@@ -53,16 +42,6 @@ npm run prod
 
 # Using Yarn
 yarn prod
-```
-
-After that's done, check out `./public/build/css/tailwind.css` to see the optimized output.
 
 
----
-
-## Support
-
-<a href="https://www.buymeacoffee.com/ahmedkamel" target="_blank" style="display: inline-block !important;"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-Be careful and donate just if it is within your possibilities, because there is no refund system. And remember that you don't need to donate, it is just a free choice for you. Thank you!
 
