@@ -2,15 +2,14 @@
 
 To get started:
 
-`` bw Accidents dahsboard
-
 1. Clone the repository:
 
-```https://github.com/jones345/accidents-bw.git
 
-   
- 
 
+   ```bash
+https://github.com/jones345/accidents-bw.git
+  bw Accidents dahsboard
+   ```
 
 2. Install the dependencies:
 
