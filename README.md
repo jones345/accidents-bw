@@ -3,6 +3,7 @@
 To get started:
 
 1. Clone the repository:
+https://github.com/jones345/accidents-bw.git
 
    ```bash
   bw Accidents dahsboard
@@ -28,20 +29,9 @@ To get started:
    yarn serve
    ```
 
-   Now you should be able to see the project running at localhost:8080.
 
-4. Open `public/index.html` in your editor and start experimenting!
 
-## Building for production
 
-To build an optimized version of your CSS, simply run:
-
-```bash
-# Using npm
-npm run prod
-
-# Using Yarn
-yarn prod
 
 
 
